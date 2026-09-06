@@ -21,7 +21,7 @@ This board was designed in Altium Designer utilizing a 4-layer stackup (Signal -
 <img width="1546" height="662" alt="l4" src="https://github.com/user-attachments/assets/7e573946-cdb6-40f9-8d95-b93181e23d2e" />
 
 
-## Bill of Materials (Key Components)
+## Bill of Materials 
 
 | Designator | Component | Description |
 | :--- | :--- | :--- |
